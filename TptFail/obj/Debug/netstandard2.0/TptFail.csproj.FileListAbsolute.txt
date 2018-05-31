@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\bin\Debug\netstandard2.0\TptFail.deps.json
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\bin\Debug\netstandard2.0\TptFail.dll
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\bin\Debug\netstandard2.0\TptFail.pdb
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.MainPage.xaml.g.cs
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.dll
+C:\Users\admin\Documents\GitHub\TptFail\TptFail\TptFail\obj\Debug\netstandard2.0\TptFail.pdb
